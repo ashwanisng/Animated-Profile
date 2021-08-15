@@ -10,8 +10,8 @@
 
 News-Fresh will keep you updated with the latest news.
 
-<!-- <p align="center"><img src="assets/user.png" width=20%></p>
- -->
+<p align="center"><img src="demo/demo.png" width=35%></p>
+
 <br/>
 
 <br>
