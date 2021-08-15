@@ -147,22 +147,25 @@ class _HomePageState extends State<HomePage> {
                 );
               },
             ),
-            AppBar(
-              title: Text(
-                'Plant',
-                style: TextStyle(color: Colors.black),
-              ),
-              centerTitle: true,
-              backgroundColor: Colors.transparent,
-              elevation: 0.0,
-              leading: IconButton(
-                icon: Icon(
-                  Icons.arrow_back_ios_new,
-                  color: Colors.white,
+            Align(
+              alignment: Alignment.topCenter,
+              child: AppBar(
+                title: Text(
+                  'Plant',
+                  style: TextStyle(color: Colors.black),
                 ),
-                onPressed: () {
-                  // return Navigator.of(context).pop();
-                },
+                centerTitle: true,
+                backgroundColor: Colors.transparent,
+                elevation: 0.0,
+                leading: IconButton(
+                  icon: Icon(
+                    Icons.arrow_back_ios_new,
+                    color: Colors.white,
+                  ),
+                  onPressed: () {
+                    // return Navigator.of(context).pop();
+                  },
+                ),
               ),
             ),
           ],
