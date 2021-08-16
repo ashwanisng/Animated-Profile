@@ -64,3 +64,8 @@ The project directory structure is as follows:
 ├── pubspec.yaml
 
 ```
+
+## Download Apk
+
+Click Here to download [APK](https://drive.google.com/drive/folders/1Lv_FvlojBp54D-sREfxKCiPncRwl4i7D?usp=sharing) <br>
+
