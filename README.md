@@ -8,7 +8,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashwanisng.svg?style=social)](https://twitter.com/ashwanisng)
 
-News-Fresh will keep you updated with the latest news.
+Animated Profile App.
 
 <p align="center"><img src="demo/demo.png" width=35%></p>
 
