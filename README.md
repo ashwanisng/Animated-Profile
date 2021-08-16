@@ -23,3 +23,44 @@ News-Fresh will keep you updated with the latest news.
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 - A little knowledge of Dart and Flutter
+
+## 📸 Demo
+
+<img src="demo/demo.gif" width="300" height="600">
+
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/ashwanisng/Animated-Profile.git
+
+# Go into the repository
+$ cd Animated-Profile.git
+
+# Install dependencies
+$ flutter packages get
+
+# Run the app
+$ flutter run
+```
+
+
+### Directory Structure
+
+The project directory structure is as follows:
+
+```
+├── android
+├── assets
+├── build
+├── demo
+├── images
+├── ios
+├── lib
+├── pubspec.lock
+├── pubspec.yaml
+
+```
