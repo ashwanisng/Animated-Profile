@@ -69,4 +69,6 @@ The project directory structure is as follows:
 
 Click Here to download [APK](https://drive.google.com/drive/folders/1Lv_FvlojBp54D-sREfxKCiPncRwl4i7D?usp=sharing) <br>
 
-Thankyou So Much
+
+If you have read till here a star will be appreciated.
+Thank you So Much
