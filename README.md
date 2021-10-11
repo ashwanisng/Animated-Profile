@@ -10,7 +10,7 @@
 
 Animated Profile App.
 
-<p align="center"><img src="demo/demo.png" width=35%></p>
+<p align="center"><img src="demo/demo.png" width=33%></p>
 
 <br/>
 
